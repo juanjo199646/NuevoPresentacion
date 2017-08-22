@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nuevo</string>
+    <string name="str_nom">nombre</string>
+    <string name="str_ape">apellido</string>
+    <string name="str_btn">ACEPTAR</string>
+    <string name="str_btn1">CANCELAR</string>
+    <string name="app_nAME">ETIQUETAS FLOTANTES</string>
+    <string name="str_corr">CORREO</string>
+    <string name="str_NOM">NOMBRE</string>
+</resources>
